@@ -1,6 +1,7 @@
 # Music-synthesizer
 The project aims to implement major notes of Indian Classical Musis on Krypton board(T-Bombay’s custom-made Altera board).
 The circuit used Sl100 Transistor and a speaker.
+
 ![image](https://github.com/Anay2034/Music-synthesizer/assets/134245273/de7d14fa-5263-4368-a7d1-abd7a47e985d)
 
 
